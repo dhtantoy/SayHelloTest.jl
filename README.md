@@ -1,3 +1,3 @@
-# SayHello
+# GitHub Learning Repository
 
-[![Build Status](https://github.com/dhtan/SayHello.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/dhtan/SayHello.jl/actions/workflows/CI.yml?query=branch%3Amain)
+This repository is created by our team to learn and explore how to use GitHub effectively. We will use this space to practice version control, collaborative workflows, and GitHub features such as branches, pull requests, and issues.
